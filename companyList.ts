@@ -1,2 +1,2 @@
-var companies = ["do365", "infosies", "TCS", "zoho"];
+var companies = ["do365", "infosies", "TCS", "google", "microsoft"];
 console.log(companies)
