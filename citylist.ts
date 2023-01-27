@@ -1,2 +1,2 @@
-var companies = ["coimbatore", "kerala", "chennai", "bangalore", "USA"];
+var companies = ["coimbatores", "kerala", "chennai", "bangalore", "USA"];
 console.log(companies)
